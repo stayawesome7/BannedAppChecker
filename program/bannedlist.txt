@@ -1,0 +1,17 @@
+Wechat:com.tencent.mm
+QQ:com.tencent.mobileqq
+Tiktok:com.zhiliaoapp.musically
+Facebook:com.facebook.katana
+FB Lite:com.facebook.lite
+Messenger:com.facebook.orca
+Instagram:com.instagram.android
+Snapchat:com.snapchat.android
+Viber:com.viber.voip
+Zoom:us.zoom.videomeetings
+Imo:com.imo.android.imoim
+UC Browser:com.UCMobile.intl
+UC mini:com.uc.browser.en
+PUBG:com.tencent.ig
+OK Cupid:com.okcupid.okcupid
+Tinder:com.tinder
+Baidu:com.baidu.searchbox
